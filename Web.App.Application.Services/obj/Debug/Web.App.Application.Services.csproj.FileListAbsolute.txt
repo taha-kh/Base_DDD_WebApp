@@ -1,0 +1,45 @@
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.dll
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.pdb
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.dll
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.pdb
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.csprojResolveAssemblyReference.cache
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.dll
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.csprojResolveAssemblyReference.cache
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Dtos.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Extentions.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Crossculting.Core.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Data.Database.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Dtos.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Extentions.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Crossculting.Core.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Data.Database.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Dtos.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Extentions.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Crossculting.Core.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Data.Database.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Dtos.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Extentions.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Application.Services.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Crossculting.Core.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Data.Database.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\bin\Debug\Web.App.Domain.Entity.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.csprojResolveAssemblyReference.cache
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Services\obj\Debug\Web.App.Application.Services.pdb

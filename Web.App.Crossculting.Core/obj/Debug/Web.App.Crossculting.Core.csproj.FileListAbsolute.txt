@@ -1,0 +1,13 @@
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.dll
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.pdb
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.dll
+d:\taha.khelifi\documents\visual studio 2015\Projects\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.dll
+D:\0- Code\Project utils\Web.App\Web.App.Crossculting.Core\bin\Debug\Web.App.Crossculting.Core.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.csprojResolveAssemblyReference.cache
+D:\0- Code\Project utils\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.dll
+D:\0- Code\Project utils\Web.App\Web.App.Crossculting.Core\obj\Debug\Web.App.Crossculting.Core.pdb

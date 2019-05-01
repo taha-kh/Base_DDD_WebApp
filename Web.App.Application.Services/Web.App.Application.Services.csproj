@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6605A0D8-704C-4FD6-85A4-90F76EB6C756}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web.App.Application.Services</RootNamespace>
+    <AssemblyName>Web.App.Application.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Post\PostServices.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Web.App.Application.Dtos\Web.App.Application.Dtos.csproj">
+      <Project>{e58b1df2-b964-4822-827d-44326aef545c}</Project>
+      <Name>Web.App.Application.Dtos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Application.Extentions\Web.App.Application.Extentions.csproj">
+      <Project>{2cc2dbc9-82d2-4251-9b84-ec98a4d58414}</Project>
+      <Name>Web.App.Application.Extentions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Application.Services.Interfaces\Web.App.Application.Services.Interfaces.csproj">
+      <Project>{ad2379c8-597a-420b-b207-05d0d512cdae}</Project>
+      <Name>Web.App.Application.Services.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Crossculting.Core\Web.App.Crossculting.Core.csproj">
+      <Project>{bdcc9a1b-c837-42d2-90e5-60105bf2e346}</Project>
+      <Name>Web.App.Crossculting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Data.Database.Interfaces\Web.App.Data.Database.Interfaces.csproj">
+      <Project>{6b6326a8-0e47-4277-8f27-ea2ad7dad13c}</Project>
+      <Name>Web.App.Data.Database.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Domain.Entity.Interfaces\Web.App.Domain.Entity.Interfaces.csproj">
+      <Project>{8E352A0B-E488-4B75-B331-860EEDC49E97}</Project>
+      <Name>Web.App.Domain.Entity.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.App.Domain.Entity\Web.App.Domain.Entity.csproj">
+      <Project>{3082fb23-77ae-4aac-b097-abf74b39605e}</Project>
+      <Name>Web.App.Domain.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

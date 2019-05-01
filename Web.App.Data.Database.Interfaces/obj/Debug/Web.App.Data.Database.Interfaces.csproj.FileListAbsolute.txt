@@ -1,0 +1,21 @@
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.csprojResolveAssemblyReference.cache
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.csprojResolveAssemblyReference.cache
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Data.Database.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.csprojResolveAssemblyReference.cache
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Data.Database.Interfaces\obj\Debug\Web.App.Data.Database.Interfaces.pdb

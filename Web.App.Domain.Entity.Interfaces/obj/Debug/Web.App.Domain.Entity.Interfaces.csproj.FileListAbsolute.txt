@@ -1,0 +1,13 @@
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\aurelien.maquet\Desktop\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Domain.Entity.Interfaces\bin\Debug\Web.App.Domain.Entity.Interfaces.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.csprojResolveAssemblyReference.cache
+D:\0- Code\Project utils\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.dll
+D:\0- Code\Project utils\Web.App\Web.App.Domain.Entity.Interfaces\obj\Debug\Web.App.Domain.Entity.Interfaces.pdb

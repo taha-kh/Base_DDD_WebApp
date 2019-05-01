@@ -1,0 +1,9 @@
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Dtos\bin\Debug\Web.App.Application.Dtos.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Dtos\bin\Debug\Web.App.Application.Dtos.pdb
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Dtos\obj\Debug\Web.App.Application.Dtos.dll
+d:\taha.khelifi\Documents\Visual Studio 2015\Projects\Web.App\Web.App.Application.Dtos\obj\Debug\Web.App.Application.Dtos.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Dtos\bin\Debug\Web.App.Application.Dtos.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Dtos\bin\Debug\Web.App.Application.Dtos.pdb
+D:\0- Code\Project utils\Web.App\Web.App.Application.Dtos\obj\Debug\Web.App.Application.Dtos.csprojResolveAssemblyReference.cache
+D:\0- Code\Project utils\Web.App\Web.App.Application.Dtos\obj\Debug\Web.App.Application.Dtos.dll
+D:\0- Code\Project utils\Web.App\Web.App.Application.Dtos\obj\Debug\Web.App.Application.Dtos.pdb
